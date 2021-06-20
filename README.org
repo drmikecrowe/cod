@@ -13,6 +13,12 @@ auto-completions for your shell.
 
   Then you need to edit your init script and add few lines.
 
+** Homebrew
+
+`brew install dim-an/cod/<formula>`
+
+Or `brew tap dim-an/cod` and then `brew install <formula>`.
+
 ** Bash
    Add to =~/.bashrc=
    #+BEGIN_SRC
